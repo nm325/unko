@@ -3,3 +3,4 @@ unko
 geri
 rm
 git status
+git diff
