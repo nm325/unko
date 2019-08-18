@@ -2,3 +2,4 @@
 unko
 geri
 rm
+git status
